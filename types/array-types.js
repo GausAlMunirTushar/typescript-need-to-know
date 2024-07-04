@@ -1,4 +1,5 @@
+"use strict";
 // let userNames: string[];
-var userNames;
+let userNames;
 userNames = ["Tushar", "Gaus"];
 console.log(userNames[0]);

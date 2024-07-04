@@ -1,3 +1,4 @@
+"use strict";
 // enum types:
 // numric enum
 var numricType;

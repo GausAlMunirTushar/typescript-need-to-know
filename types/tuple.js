@@ -1,4 +1,5 @@
+"use strict";
 // mixed data types, key - value:
-var user;
+let user;
 user = [1001, 'Tushar'];
 console.log(user);

@@ -1,4 +1,5 @@
-var userId;
+"use strict";
+let userId;
 userId = '2340';
 function userInfo(userId) {
     console.log(userId);
